@@ -269,7 +269,7 @@
             <h2 id="news-title">Novidades</h2>
             <article class="novidade" role="article">
                 <h3>O começo</h3>
-                <time class="date" datetime="2025-12-23">23 de Dezembro de 2025</time>
+                <time class="date" datetime="2025-12-23">25 de Dezembro de 2025</time>
                 <p>Estamos iniciando nosso estúdio independente...</p>
             </article>
         </section>
